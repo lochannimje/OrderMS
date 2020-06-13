@@ -40,6 +40,6 @@ phases:
       - docker push $REPOSITORY_URI:latest
       - docker push $REPOSITORY_URI:347797620150.dkr.ecr.ap-south-1.amazonaws.com/order_ms $IMAGE_TAG
       - echo Writing image definitions file...
-      - printf '[{"name":"order_ms","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json 
+      - printf '[{"name":"order_ms","imageUri":"%s"}]' $REPOSITORY_URI:347797620150.dkr.ecr.ap-south-1.amazonaws.com/order_ms $IMAGE_TAG > imagedefinitions.json 
 artifacts:
   files: imagedefinitions.json
