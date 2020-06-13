@@ -1,10 +1,10 @@
 version: 0.2
 env:
   secrets-manager:
-    LOGIN: SonarCredentials:fd34e2bcaead1586516dd094f4325ea613d1988e
-    HOST: SonarCredentials:https://sonarcloud.io
-    Organization: SonarCredentials:lochannimje
-    Project: SonarCredentials:team12:OrderMS
+    LOGIN: OrderMS:fd34e2bcaead1586516dd094f4325ea613d1988e
+    HOST: OrderMS:https://sonarcloud.io
+    Organization: OrderMS:lochannimje
+    Project: OrderMS:team12:OrderMS
 phases:
   install:
     runtime-versions:
