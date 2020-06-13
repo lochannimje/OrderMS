@@ -8,6 +8,7 @@ env:
 phases:
   install:
     runtime-versions:
+      java: openjdk8
       docker: 18
   pre_build:
     commands:
@@ -42,4 +43,4 @@ phases:
       - echo Writing image definitions file...
       - printf '[{"name":"order_ms","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json 
 artifacts:
-  file: imagedefinitions.json
+  files: imagedefinitions.json
