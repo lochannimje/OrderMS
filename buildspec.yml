@@ -32,7 +32,7 @@ phases:
       - echo generating jar
       - echo building the docker image.....
       - docker build -t $REPOSITORY_URI:latest .
-      - docker tag $REPOSITORY_URI:latest $REPOSITORY_URI: $IMAGE_TAG
+      - docker tag $REPOSITORY_URI:latest $REPOSITORY_URI:347797620150.dkr.ecr.ap-south-1.amazonaws.com/order_ms $IMAGE_TAG
   post_build:
     commands:
       - echo Build completed on `date`
