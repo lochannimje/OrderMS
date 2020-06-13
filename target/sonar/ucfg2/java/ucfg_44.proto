@@ -1,0 +1,24 @@
+
+[team12.order.controller.OrderController#getOrders(Ljava/lang/Integer;)Ljava/util/ArrayList;Y
+OC:/Users/abc/OrderMS/src/main/java/team12/order/controller/OrderController.java- -(#"1*ë
+1Y
+OC:/Users/abc/OrderMS/src/main/java/team12/order/controller/OrderController.java.	 .(Ì
+É
+Y
+OC:/Users/abc/OrderMS/src/main/java/team12/order/controller/OrderController.java.	 .('
+%0!team12.order.service.OrderService"__id*=*;)
+'team12.order.controller.OrderController"
+orderserviceÁ¾
+Y
+OC:/Users/abc/OrderMS/src/main/java/team12/order/controller/OrderController.java.	 .(+
+%1java.util.ArrayList"Xteam12.order.service.OrderService#getAllOrders(Ljava/lang/Integer;)Ljava/util/ArrayList;*)
+'
+%0!team12.order.service.OrderService*
+
+buyerIdjava.lang.Integer2!getAllOrders(Ljava/lang/Integer;)"x
+Y
+OC:/Users/abc/OrderMS/src/main/java/team12/order/controller/OrderController.java. .(,
+
+%1java.util.ArrayList:
+buyerIdjava.lang.IntegerB+)
+'team12.order.controller.OrderController

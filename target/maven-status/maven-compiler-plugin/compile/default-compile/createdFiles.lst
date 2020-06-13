@@ -1,0 +1,10 @@
+team12\order\service\OrderService.class
+team12\order\OrderApplication.class
+team12\order\dto\Order.class
+team12\order\repository\OrderRepository.class
+team12\order\controller\OrderController.class
+team12\order\dto\Product.class
+team12\order\dto\ProductId.class
+team12\order\entity\OrderEntity.class
+team12\order\repository\ProductsOrderedRepository.class
+team12\order\entity\ProductsOrdered.class

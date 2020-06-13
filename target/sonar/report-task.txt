@@ -1,0 +1,7 @@
+organization=lochannimje
+projectKey=team12:OrderMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=team12%3AOrderMS
+ceTaskId=AXKnllmF__OhXPWk29QL
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKnllmF__OhXPWk29QL

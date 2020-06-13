@@ -1,0 +1,16 @@
+
+Ateam12.order.entity.OrderEntity#getAmount()Ljava/math/BigDecimal;Q
+GC:/Users/abc/OrderMS/src/main/java/team12/order/entity/OrderEntity.java; ;("1*õ
+1Q
+GC:/Users/abc/OrderMS/src/main/java/team12/order/entity/OrderEntity.java<	 <(©
+¦
+Q
+GC:/Users/abc/OrderMS/src/main/java/team12/order/entity/OrderEntity.java<	 <(
+%0java.math.BigDecimal"__id*/*-!
+team12.order.entity.OrderEntity"
+amount"q
+Q
+GC:/Users/abc/OrderMS/src/main/java/team12/order/entity/OrderEntity.java< <(
+
+%0java.math.BigDecimalB#!
+team12.order.entity.OrderEntity
