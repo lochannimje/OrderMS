@@ -4,7 +4,7 @@ env:
     LOGIN: OrderMS:5bf699d64397a4644cc664236e24435dd4dd3dad
     HOST: OrderMS:https://sonarcloud.io
     Organization: OrderMS:lochannimje
-    Project: OrderMS:lochannimje_OrderMS
+    Project: OrderMS:team12:OrderMS
 phases:
   install:
     runtime-versions:
