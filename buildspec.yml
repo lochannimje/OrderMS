@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN: OrderMS:5bf699d64397a4644cc664236e24435dd4dd3dad
+    LOGIN: OrderMS:63d0518144fed329f9c30e9a62681bd4ae7031a4
     HOST: OrderMS:https://sonarcloud.io
     Organization: OrderMS:lochannimje
     Project: OrderMS:team12:OrderMS
